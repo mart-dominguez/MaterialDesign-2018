@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="menu_opcion1">Opcion</string>
+    <string name="menu_opcion2">Otra opcion</string>
+    <string name="menu_opcion3">Una opcion</string>
+    <string name="menu_opcion4">Opcion 4</string>
+    <string name="menu_opcion5">Mi Opcion 5</string>
+</resources>
